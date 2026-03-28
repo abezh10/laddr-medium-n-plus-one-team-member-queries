@@ -1,4 +1,12 @@
 {
-  "name": "medium-n-plus-one-team-member-queries",
-  "private": true
+  "name": "laddr-medium-n-plus-one-team-member-queries",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Sample repo scaffold\"",
+    "start": "echo \"Sample repo scaffold\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
